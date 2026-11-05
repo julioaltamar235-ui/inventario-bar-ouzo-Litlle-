@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ouzo Bar - Control de Inventario",
+  "description": "Sistema de captura táctil, cuadre automático acumulativo, verificación y sincronización con Google Sheets para Ouzo Bar \u0026 Restaurante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
